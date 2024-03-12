@@ -1,6 +1,6 @@
 [submodule "server"]
 	path = server
-	url = git@github.com:blancout/new-react-admin/server/.git/
+	url = https://github.com:blancout/new-react-admin/server/.git/
 [submodule "admin-demo"]
 	path = admin-demo
-	url = git@github.com:blancout/new-react-admin/admin-demo/.git/
+	url = https://github.com:blancout/new-react-admin/admin-demo/.git/
